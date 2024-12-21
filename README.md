@@ -1,5 +1,6 @@
 # Audio Random(AUR)
-Use the audio of the microphone to make the random number
+Use the audio of the microphone to make the random number.
+Audio technology by **Port Audio**
 ### Install(GNU/Linux)
 ##### Before the beginning, please install the apt.
 ##### Please setting the permission of the install.sh⬇️⬇️⬇️
